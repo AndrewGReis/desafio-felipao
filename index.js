@@ -1,8 +1,5 @@
-let nomeDoHeroi = "Nome do Herói ";
-let experienciaDoHeroi = 5000
-
-let nivelDoHeroi;
-if experienciaDoHeroi = 5000;
+let nomeDoHeroi = "Andrew";
+let experienciaDoHeroi = 10050;
 
 let nivelDoHeroi;
 if (experienciaDoHeroi < 1000) {
@@ -30,5 +27,5 @@ if (experienciaDoHeroi < 1000) {
         nivelDoHeroi = "Radiante" ;
     }
 
-    console.log('O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}');
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
     
